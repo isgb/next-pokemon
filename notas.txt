@@ -1,0 +1,2 @@
+npm i -S styled-components
+npm i -D babel-plugin-styled-components
